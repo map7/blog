@@ -64,7 +64,7 @@ So, you can use it in HTML like this:
 
 ```js
 <body ng-app="myApp">
-	<myDirective></myDirective>
+	<my-directive></my-directive>
 </body>
 ```
 
